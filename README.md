@@ -1,1 +1,0 @@
-# associate_data_analyst_in_sql
